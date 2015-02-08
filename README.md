@@ -8,7 +8,12 @@ Our app is live at http://example.com/awesome-app-that-doesnt-exist. You can log
 
 ## Challenge and Approach
 
-Our submission is for ... Government Housing Assistance Simplified
+It’s incredibly difficult navigating the web of government housing assistance programs. 
+
+How do you know what programs you qualify for? More importantly, how do I find homes that qualify for these assistance programs?
+
+Rye simplifies the complex web of government provided regulation and helps customers find homes that may be funded by the government.
+
 Our approach for satisfying this challenge was to:
 
 - Collect Data from Zillow and HUD
@@ -31,9 +36,11 @@ Our team is comprised of:
 
 We made use of:
 
-- Swift
-- HUD
-- Zillow
+- [Public Housing Data](http://zillowhack.hud.opendata.arcgis.com/datasets/2a462f6b548e4ab8bfd9b2523a3db4e2_0)
+- [HUD Multifamily Properties](http://zillowhack.hud.opendata.arcgis.com/datasets/c55eb46fbc3b472cabd0c2a41f805261_0)
+- All houses on market data with Zillow search API [Zillow API](http://www.zillow.com/howto/api/GetSearchResults.htm)
+- [Swift](https://developer.apple.com/swift/) programming language for iOS
+- [Parse](https://parse.com/) iOS SDK
 
 ## Contributing
 
