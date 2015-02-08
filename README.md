@@ -1,6 +1,4 @@
-# Evergreen Awesome Hackathon: My Sample App
-
-The purpose of this app is to provide an example of how to best format an app submission on [Github](http://github.com) for a hackathon. If you'd like to suggest changes or improvements to this example, feel free to send me a pull request.
+# Rye: Government Housing Assistance, Simplified
 
 This application was developed February 6-8, 2015 for the [Hack Housing: Empowering Smarter Decisions](http://www.zillow.com/wikipages/Hack-Housing-Empowering-Smarter-Decisions-Contest/).
 
